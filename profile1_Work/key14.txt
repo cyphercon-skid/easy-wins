@@ -1,0 +1,2 @@
+REM Ctrl + alt + delete since I have a weird keyboard
+CTRL ALT DELETE

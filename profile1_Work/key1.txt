@@ -1,0 +1,2 @@
+REM Mute For Teams
+CTRL SHIFT M

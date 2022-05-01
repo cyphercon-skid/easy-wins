@@ -1,0 +1,2 @@
+REM Root URL for support tickets
+STRING production.support.com/SBEdit.jsp?id=

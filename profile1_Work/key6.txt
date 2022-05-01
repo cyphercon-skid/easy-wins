@@ -1,0 +1,24 @@
+REM Personal Balances on accounts -> text message
+REM Call while in messages on phone, or messages web portal
+DEFAULTCHARDELAY 20
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+SHIFT ENTER
+STRING Acct:  
+UP
+REPEAT 8

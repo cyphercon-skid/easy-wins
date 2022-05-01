@@ -1,0 +1,5 @@
+REM Open password mgr
+WINDOWS
+DELAY 200
+STRING KEEPASS
+ENTER

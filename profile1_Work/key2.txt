@@ -1,0 +1,2 @@
+REM Turn off cams For Teams
+CTRL SHIFT O
