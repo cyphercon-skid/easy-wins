@@ -1,0 +1,3 @@
+REM How to use this:  Say you want to build a new repo in your github.  You use this command, and replace NAME_HERE with the new repo name you'll make.  From there, you can git clone https://github.com/example/NAME_HERE.git to clone the repo.  
+REM Drop the .git directory into the folder you want to upload to github, then use the 4 yellow squares to upload like work.  
+STRING curl -u "example" https://api.github.com/user/repos -d '{"name":"NAME_HERE","private":true}'

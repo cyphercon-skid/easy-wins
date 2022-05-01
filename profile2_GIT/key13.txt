@@ -1,0 +1,27 @@
+REM Call this when you've got a newly-opened "compose email" window in outlook.  Assumes cursor's in the "TO" Field.
+STRING Joe
+DELAY 250
+TAB
+DELAY 250
+STRING Bob
+DELAY 250
+TAB
+DELAY 100
+TAB
+TAB
+TAB
+STRING Pull Request
+TAB
+STRING Hi Joe, hi Bob:
+ENTER 
+ENTER 
+STRING Please consider the pull request I've put together below:
+ENTER 
+ENTER 
+CTRL V
+ENTER 
+ENTER 
+STRING Thanks so much for the help, and please reach out if you have any questions or concerns.
+ENTER 
+ENTER 
+STRING Thanks so much,

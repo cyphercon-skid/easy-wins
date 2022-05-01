@@ -1,0 +1,15 @@
+REM Calling this from within a popped out email compose screen will let you delay email send until 8am.
+ALT 
+STRING P
+DELAY 100
+STRING D
+STRING 8:00 AM
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+TAB
+DELAY 500
+SPACE

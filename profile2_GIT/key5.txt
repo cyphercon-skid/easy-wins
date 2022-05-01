@@ -1,0 +1,2 @@
+REM Git commit + fake commit comment
+STRING git commit -m "comments_go_here"

@@ -1,0 +1,34 @@
+REM This is a generic push-to-production request for Joe and Bob.  Assumes you've got a screenshot copied, showing the changes made to the repo.
+REM Call from when you have a compose email open in outlook and cursor in TO field.
+STRING Marty
+DELAY 250
+TAB
+DELAY 250
+STRING Scott
+DELAY 250
+TAB
+DELAY 100
+TAB
+TAB
+TAB
+STRING Request for push to PROD
+TAB
+STRING Hi Marty, hi Scott:
+ENTER 
+ENTER 
+STRING Please deploy the following file changes for the following client:
+ENTER 
+ENTER 
+STRING AnyNetNews
+ENTER 
+ENTER 
+CTRL V
+ENTER
+ENTER
+STRING Time of Deployment: Preferably Today
+ENTER
+ENTER
+STRING Feel free to reach out if you have any questions or concerns, and thanks so much for the help.
+ENTER
+ENTER
+STRING Sincerely,

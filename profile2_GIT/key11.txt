@@ -1,0 +1,6 @@
+REM Response to a crashed system.
+STRING Hi Team,
+ENTER 
+STRING PROJECT daily upload failed today.  I am working to resolve this upload failure.  Once the reason has been determined, I'll share it, along with the next steps to resolve the issue.
+ENTER 
+STRING Thank you for your patience,

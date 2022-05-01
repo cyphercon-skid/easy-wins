@@ -1,0 +1,14 @@
+REM Fills in token connection details for airflow automatically.
+STRING prefix_
+TAB
+STRING HTTP
+TAB
+TAB
+STRING https://api.example.com
+TAB
+TAB
+STRING user
+TAB
+TAB
+TAB
+STRING {"Content-Type": "application/json", "X-SmartToken": ""}

@@ -1,0 +1,20 @@
+REM Call this when you've got a newly-opened "compose email" window in outlook.  Assumes cursor's in the "TO" Field.REM This is a generic pull-from-production request
+STRING Joe
+DELAY 250
+TAB
+DELAY 250
+STRING Bob
+DELAY 250
+TAB
+DELAY 100
+TAB
+TAB
+TAB
+STRING Request for data from PROD
+TAB	
+STRING Hi Joe, hi Bob:
+ENTER 
+ENTER 
+STRING     Could someone zip a copy of all the files/sub-folders within PROD's /data/DIRECTORY/ directory?
+ENTER 
+STRING Thanks so much,

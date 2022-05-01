@@ -1,0 +1,5 @@
+REM Git add - includes reminder, lol
+STRING # MAKE SURE YOU'RE IN ROOT DIR!
+ENTER 
+STRING git add .
+ENTER 

@@ -1,0 +1,4 @@
+REM Builds production info for push2prod requests
+REM Copy output to clipboard, then use "push2pr" button.
+STRING pwd | awk -F / '{print $NF}'; tree | grep -v files; echo "";echo "REASON FOR DEPLOYMENT:";echo ""
+LEFT
