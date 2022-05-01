@@ -1,0 +1,23 @@
+z1 g_fetch
+z2 g_stat
+z3 g_add
+z4 g_data
+z5 g_commt
+z6 g_push
+z7 mk_repo
+z9 g_brnch
+z10 D-Email
+z11 D-Crash
+z12 Token
+z13 pull_rq
+z14 push2pr
+z15 push2me
+BG_COLOR 217 132 0
+SWCOLOR_1 0 40 217
+SWCOLOR_7 238 130 238
+SWCOLOR_10 43 177 255
+SWCOLOR_11 255 0 0
+SWCOLOR_12 113 0 179
+SWCOLOR_13 255 0 70
+SWCOLOR_14 255 0 70
+SWCOLOR_15 255 0 70
